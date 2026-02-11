@@ -1,5 +1,7 @@
 # Postgres Visual Semantic Knowledge Graph (Cloud SQL)
 
+![Space Graph](space-graph.png)
+
 ## Overview
 
 In this tutorial, you'll visualize facts about Space Exploration and Astrophysics as a semantic knowledge graph using Google Cloud SQL (PostgreSQL), `pgvector`, and `pyvis`.
