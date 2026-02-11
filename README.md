@@ -1,6 +1,6 @@
 # Postgres Visual Semantic Knowledge Graph (Cloud SQL)
 
-![Space Graph](space-graph.png)
+![Space Graph](https://github.com/billyjacobson/cloud-sql-pgvector-graph/blob/main/space-graph.png?raw=true)
 
 ## Overview
 
